@@ -13,3 +13,5 @@
 - Зубель Алексей
 - Шманай Никита
 - Мироновский Иван
+## Additional Notes:
+https://drive.google.com/drive/folders/1fM9KbLWk0sppY7_1ba4n8KjY1Wk2XOc4?usp=drive_link - Диск с документацией
